@@ -13,3 +13,6 @@ A small Node.js web app used to practice version control with Git and GitHub.
 ## Purpose
 This project demonstrates a Git workflow: feature branches, pull requests,
 security scanning, and backups.
+## Pages
+- `/` : home page
+- `/greeting` : greeting page
